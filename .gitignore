@@ -3,6 +3,8 @@ node_modules
 files
 static
 
+config
+
 # production
 build
 
